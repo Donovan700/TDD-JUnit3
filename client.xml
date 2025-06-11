@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<client codecli="c1">
+    <nom>RAKOTO SEDSON</nom>
+    <age>22</age>
+    <adresse>Tanà</adresse>
+    <situation>Celibataire</situation>
+    <argent>500</argent>
+</client>
